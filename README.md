@@ -8,7 +8,7 @@
 <b><a href= "https://github.com/OnlyGetC/Reinforcement_learning_Berkley_project3/blob/master/reinforcement/analysis.py"> analysis.py </a></b> - A file to put your answers to questions given in the project <br>
 <br>
 
-<b><a href= "https://github.com/OnlyGetC/Reinforcement_learning_Berkley_project3/blob/master/reinforcement/featureExtractors.py"> featureExtractors.py </a></b> - ***** <br>
+<b><a href= "https://github.com/OnlyGetC/Reinforcement_learning_Berkley_project3/blob/master/reinforcement/featureExtractors.py"> featureExtractors.py </a></b> - Create a features, which pacman himself goes pass different maps to choose from <br>
 <h1>Files read but did NOT edited:</h1>
 <br>
 <b><a href= "https://github.com/OnlyGetC/Reinforcement_learning_Berkley_project3/blob/master/reinforcement/mdp.py"> mdp.py </a></b> - Defines methods on general MDPs <br>
